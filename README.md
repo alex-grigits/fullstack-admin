@@ -1,1 +1,1 @@
-# Back office app
+# Fullstack admin template
